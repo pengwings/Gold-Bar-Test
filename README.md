@@ -2,7 +2,7 @@
 This is a Selenium test written in Java using the WebDriverAPI to look for a fake gold bar among real gold bars for an interview at Fetch Rewards.
 
 Requirements to Run:
-To run this test on your Windows machine, make sure that you have Java Runtime Environment installed on your machine.  Otherwise you can install the latest version here: https://www.java.com/en/download/
+To run this test on your Windows machine, make sure that you have Java SE Development Kit 16 installed on your machine.  Otherwise you can install it here: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
 This test is run on Google Chrome so make sure Google Chrome is installed on your machine.
 In addition, make sure to download ChromeDriver (Version 91.0.4472.19) from here: https://chromedriver.storage.googleapis.com/index.html?path=91.0.4472.19/
 
